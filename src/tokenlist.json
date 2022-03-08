@@ -1,104 +1,14 @@
 [
     {
         "index": 1,
-        "mint": "DVFmyEQS7wC42CgWxqUEYy8G9C4oeCj6SkczzUboKrgT",
-        "slug": "solana-sensei",
+        "mint": "HTMttWi3RnjDsJgrh5vVcSDZYWHAKpKY67e4sC7hxAib",
+        "slug": "metaplex",
         "phase": 0
     },
     {
         "index": 2,
-        "mint":"2aoxm1brNz4rZa21gGJt7MCS6chFVL36cn8JZ8jc4XQi",
-        "slug": "solbuckets",
-        "phase": 0
-    },
-    {
-        "index": 3,
-        "mint": "9Q8r86cxQA1kWYVtY23djkht1npNqckW4xJzyKVFK1sS",
-        "slug": "iced-knife",
-        "phase": 0
-    },
-    {
-        "index": 4,
-        "mint": "CpV1cA6Hb6v1qyJt59sceSew7WMaMhjwM2SdbVF7UNhN",
-        "slug": "grape-protocol",
-        "phase": 0
-    },
-    {
-        "index": 5,
-        "mint": "3urUTeb7fa4tVf3xAicxuaNr8CLYG9CnFBPUi4EQcRij",
-        "slug": "boryoku-dragonz",
-        "phase": 0
-    },
-    {
-        "index": 6,
-        "mint": "5Toi9PCGrrGPtMQgxNqN1mRtoS2ZGcJebk7yzhv4sV55",
-        "slug": "ftx",
-        "phase": 0
-    },
-    {
-        "index": 7,
-        "mint": "W6U6xYHedjJegEEDi8gGz5AdzWQkHKitYThj2PPA3TQ",
-        "slug": "bardstocks",
-        "phase": 0
-    },
-    {
-        "index": 8,
-        "mint": "Df6BaNd16J4HP4rmNmpBLT4C7iEpXQQx5cnQzN8RYa65",
-        "slug": "belugies",
-        "phase": 0
-    },
-    {
-        "index": 9,
-        "mint": "8Vj2euTfHvDWHe5TMC5g4ifnTK5aBmbY9Vcge4Sf2yRS",
-        "slug": "big-brain",
-        "phase": 0
-    },
-    {
-        "index": 10,
-        "mint": "6AkEM9UBc3ob9mSgm7nKxZeynZ87mfdaofRs6KXRKHJ3",
-        "slug": "boring-protocol",
-        "phase": 0
-    },
-    {
-        "index": 11,
-        "mint": "FUsqUHjGx3BSFycxUuajNXzFypNvvD275SNQfH14gBjU",
-        "slug": "degen-ape",
-        "phase": 0
-    },
-    {
-        "index": 12,
-        "mint": "DnZt1YCgv4f7F3jztYqGgHYEUC586tJi9yrosKhZwruD",
-        "slug": "soft-money",
-        "phase": 0
-    },
-    {
-        "index": 13,
-        "mint": "E4W5kz5a7qLpCpxt3QnZMEfPpkyBX3H83bVSHahU5Arz",
-        "slug": "knox",
-        "phase": 0
-    },
-    {
-        "index": 14,
-        "mint": "EPd1Z6c3AtdGP8otex32s9BxYovbD1yxcvL3GPahvh9w",
+        "mint": "",
         "slug": "magic-eden",
-        "phase": 0
-    },
-    {
-        "index": 15,
-        "mint": "6Z22dpoZ1RyuvqntYziSUyYFvuSNygJFM3Mo9NGXgmpj",
-        "slug": "mango-markets",
-        "phase": 0
-    },
-    {
-        "index": 16,
-        "mint": "8RCEHd6MQsoAFb3eR8btPLU4zwJvkxqc9CZ75T2JuJPg",
-        "slug": "solgods",
-        "phase": 0
-    },
-    {
-        "index": 17,
-        "mint": "HRdwJaKgnBgYmCstkyLQ5KxmEC6rEufsvdE57w68Fmfy",
-        "slug": "metaplex",
         "phase": 0
     }
 ]
